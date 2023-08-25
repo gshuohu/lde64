@@ -1,7 +1,7 @@
     PrefRepne       EQU rbp+0
     PrefRepe        EQU rbp+1
     OperandSize     EQU rbp+2
-    AddressSize     EQU rbp+8
+    AddressSize     EQU rbp+6
     MOD_            EQU rbp+10
     RM_             EQU rbp+14
     BASE_           EQU rbp+18
